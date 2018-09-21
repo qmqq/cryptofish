@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="2218.08" width="2242.727" x="359.145" y="-2656.167" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="PectoralFin_3_">
+	<g id="PectoralFinColor_3_">
+		<defs>
+			<path id="PectoralFinMask_3_" d="M1210.808,1625.943c26.994-27.001,34.859-38.283,98.45-79.085
+				c96.409-61.858,234.034-76.077,220.305,29.052c-28.244,216.271-237.627,135.614-290.459,137.17c0,0,1.896-21.413-4.104-47.413
+				C1228.993,1639.636,1210.808,1625.943,1210.808,1625.943z"/>
+		</defs>
+		<clipPath id="PectoralFinMask_1_">
+			<use xlink:href="#PectoralFinMask_3_"  overflow="visible"/>
+		</clipPath>
+		
+			<rect id="FinAllColor_12_" x="359.145" y="438.087" clip-path="url(#PectoralFinMask_1_)" fill="#C8812A" width="2242.727" height="2218.08"/>
+	</g>
+	<path id="PectoralFinColor2" fill="#2D2D2D" d="M1416.99,1496.827c78.68-9.684,120.5,18.382,112.573,79.083
+		c-9.999,76.561-41.896,155.09-171.896,151.757C1454.333,1720.334,1491.75,1491.695,1416.99,1496.827z"/>
+	<path id="PectoralFinLine_4_" fill="none" stroke="#050001" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" d="
+		M1239.104,1713.08c50.563,2.587,278.354,79.907,291.176-146.546c4.26-75.242-84.642-86.654-173.409-47.919
+		c-50.57,22.066-117.85,68.416-146.063,107.328"/>
+</g>
+</svg>

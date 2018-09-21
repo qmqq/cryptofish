@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CryptoMarlin</title>
+    <link href="images/favicon.ico" rel="icon" type="image/x-icon">
+    <link href="css/main.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body ng-app="myApp" ng-controller="myCtrl">
+  <div class="header" >
+      <div class="header_inner" >
+          <div class="logo" >
+              <iframe src="images/logo.svg" width="100" height="80" href="./index.html">
+              </iframe>
+              <font size="6" float="right">CryptoMarlin Market</font>
+          </div>
+          <div class="fr">
+              <div class="s-header-nav text-tc">
+                  <a href="">登录</a> / <a href="">拥有</a>
+              </div>
+          </div>
+      </div>
+  </div>
+
+<div class="middle1" data-ng-init="App.init()">
+    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-push-2">
+        </div>
+    </div>
+    <div id="petsRow" class="row">
+        <!-- PETS LOAD HERE -->
+        <!--{{App.petList[0]}}-->
+        <div class="col-sm-6 col-md-4 col-lg-3" ng-repeat="tmp in App.petList">
+            <div class="panel panel-default panel-pet">
+                <div class="panel-heading">
+                    <h3 class="panel-title">{{tmp.name}}</h3>
+                </div>
+                <div class="panel-body">
+          <svg style="width:320px;height:320px;" version="1.1"
+              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+              viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+            <metadata>
+                <sfw >
+                    <slices></slices>
+                    <sliceSourceBounds  height="2690.133" width="5272.88" y="310.367" x="-1645.519" bottomLeftOrigin="true"></sliceSourceBounds>
+                </sfw>
+            </metadata>
+						<g ng-bind-html=" fishSturct.DorsalFin[tmp.gens.DorsalFin-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.VentralFin[tmp.gens.VentralFin-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Body[tmp.gens.Body-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Tail[tmp.gens.Tail-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.BodySkin[tmp.gens.BodySkin-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.PectoralFin[tmp.gens.PectoralFin-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Head[tmp.gens.Head-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Eye1[tmp.gens.Eye1-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Eyelid1[tmp.gens.Eyelid1-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Face[tmp.gens.Face-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Eye2[tmp.gens.Eye2-1]| to_trusted"></g>
+						<g ng-bind-html=" fishSturct.Eyelid2[tmp.gens.Eyelid2-1] | to_trusted"></g>
+						<g ng-bind-html=" fishSturct.HeadWear[tmp.gens.HeadWear-1] | to_trusted"></g>
+					</svg>
+                    <br/><br/>
+                    <strong>Breed</strong>: <span class="pet-breed">{{tmp.breed}}</span><br/>
+                    <strong>Age</strong>: <span class="pet-age">{{tmp.age}}</span><br/>
+                    <strong>Owner</strong>: <span class="pet-owner">{{tmp.owner}}</span><br/>
+                    <strong>Location</strong>: <span class="pet-location">{{tmp.location}}</span><br/><br/>
+                    <button class="btn btn-default btn-adopt" type="button" ng-click="App.handleAdopt(tmp)">buy</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="wt-footer">
+    <div class="w1200 clearfix">
+        <ul class="fl footer-link1">
+            <li class="first-title">我的咸鱼</li>
+            <li><a  target="_blank" rel="nofollow">鱼市</a></li>
+            <li><a  target="_blank" rel="nofollow">工单邮箱：20180000@yjys.com</a></li>
+            <li><a  target="_blank" rel="nofollow">关于我们</a></li>
+        </ul>
+        <ul class="fl footer-link2">
+            <li class="first-title">新浪微博</li>
+            <li><a  target="_blank" rel="nofollow">豆瓣</a></li>
+            <li><a  target="_blank" rel="nofollow">使用条例</a></li>
+            <li><a  target="_blank" rel="nofollow">隐私条例</a></li>
+        </ul>
+        <ul class="fl footer-link3">
+            <li class="first-title">在本站购买生育所得的</li>
+            <li><a  target="_blank">虚拟宠物只能在本站繁殖</a></li>
+            <li><a  target="_blank">收集和交易请理性消费</a></li>
+        </ul>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/svgSource.js"></script>
+<script src="js/web3.min.js"></script>
+<script src="js/truffle-contract.js"></script>
+<script src="js/extend.js"></script>
+<script src="js/angular.min.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="2218.08" width="2242.727" x="359.145" y="-2659.167" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="DorsalFin_5_">
+	<g id="DorsalFinColor_3_">
+		<defs>
+			<path id="DorsalFinMask_3_" d="M1681,1301c-294-139-634-130-690-129.686c28.084-35.942,60.361-183.12,215-198.314
+				C1247.894,968.884,1578,988,1681,1301z"/>
+		</defs>
+		<clipPath id="DorsalFinMask_1_">
+			<use xlink:href="#DorsalFinMask_3_"  overflow="visible"/>
+		</clipPath>
+		
+			<rect id="FinAllColor_9_" x="359.145" y="441.087" clip-path="url(#DorsalFinMask_1_)" fill="#C8812A" width="2242.727" height="2218.08"/>
+	</g>
+	<path id="DorsalFinLine_3_" fill="none" stroke="#050001" stroke-width="6" stroke-miterlimit="10" d="M1039.423,1171.314
+		c0,0,20.581-41.963,65.264-102.458c45.615-61.755,88.423-94.738,88.423-94.738 M1271.006,974.116c0,0-49.124,40.001-85.616,93.336
+		c-29.166,42.626-59.649,103.862-59.649,103.862 M1346.095,988.854c0,0-37.388,36.848-77.896,94.037
+		c-35.79,50.528-54.737,94.037-54.737,94.037 M1409.955,1013.416c0,0-35.789,34.387-68.071,80.002
+		c-21.974,31.049-47.02,70.878-58.247,91.931 M1472.414,1044.995c0,0-36.492,33.684-63.861,70.878
+		c-25.602,34.793-52.634,82.107-52.634,82.107 M1525.748,1080.083c0,0-30.176,26.667-52.634,57.544
+		c-24.279,33.384-46.316,75.09-46.316,75.09 M1567.854,1121.488c0,0-24.019,19.719-44.913,49.123
+		c-18.948,26.668-34.387,56.843-34.387,56.843 M1612.585,1164.107c0,0-23.06,21.645-39.117,39.487
+		c-12.631,14.036-31.579,40.001-31.579,40.001 M1644.083,1210.605c0,0-25.858,38.242-41.997,59.997 M991,1171.314
+		c178.951-10.527,509.09,30.292,692.081,133.786c-46.316-155.792-155.229-253.789-323.652-310.632
+		C1074.736,898.384,1024.685,1131.313,991,1171.314z"/>
+</g>
+</svg>

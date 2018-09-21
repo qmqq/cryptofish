@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="2337.279" width="3917.321" x="-295.498" y="-2637.91" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Tail_7_">
+	<g id="TailColor_4_">
+		<defs>
+			<path id="TailMask_19_" d="M1568,1681c2.444-1.566,61.084-37.917,82.084-57.917c70.155-66.814,112.916-155.083,216.288-157.486
+				c131.593,150.816,77.896,464.049,778.938,416.318c-112.877-58.219-455.906-131.791-427.586-495.205
+				c21.38-274.349,200.866-310.249,515.093-632.43c-475.316-73.585-719.555,453.363-861.141,534.315
+				c-47.788,27.323-172.464-32.382-193.676-44.596c-49.497-28.499-145-79-145-79L1568,1681z"/>
+		</defs>
+		<clipPath id="TailMask_1_">
+			<use xlink:href="#TailMask_19_"  overflow="visible"/>
+		</clipPath>
+		
+			<rect id="BodyAllColor_8_" x="-291.498" y="304.631" clip-path="url(#TailMask_1_)" fill="#539C85" stroke="#221714" stroke-width="8" stroke-miterlimit="10" width="3909.321" height="2329.279"/>
+	</g>
+	<g id="TailFin_4_">
+		<defs>
+			<path id="TailFinMask_4_" d="M1856.229,1464.216c4.116,0.008,7.533,0.448,10.144,1.381
+				c131.593,150.816,77.896,464.049,778.938,416.318c-112.877-58.219-455.906-131.791-427.586-495.205
+				c21.38-274.349,200.866-310.249,515.093-632.43c-466.85-72.274-713.945,429.485-853.646,529.287
+				C1884.935,1315.777,1896.867,1415.216,1856.229,1464.216z"/>
+		</defs>
+		<clipPath id="TailFinMask_1_">
+			<use xlink:href="#TailFinMask_4_"  overflow="visible"/>
+		</clipPath>
+		<polygon id="TailFinAllColor_5_" clip-path="url(#TailFinMask_1_)" fill="#AB5555" points="2751.991,2032.282 1686.964,2076.282 
+			1686.964,765.264 2751.991,721.264 		"/>
+	</g>
+	<path id="TailLine_4_" fill="none" stroke="#221714" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" d="
+		M2685.111,798.156c0,0-113.386,9.821-288.397,83.406c-256.415,107.811-409.688,290.361-409.688,290.361 M1915.431,1253.462
+		c198.877-155.124,532.026-342.448,665.273-358.358 M1878.639,1305.17c73.585-1.988,456.959-253.458,530.543-259.424
+		 M2256.837,1228.271c-94.799,33.146-186.281,86.843-379.193,102.753 M2226.341,1327.047
+		c-88.832,29.831-289.697,32.814-350.686,28.837 M2217.062,1472.228c-38.45-15.247-164.075-74.248-340.412-91.484
+		 M2246.893,1584.925c-39.113-25.855-209.815-147.501-372.232-185.288 M2587.636,1856.724
+		c-25.853-5.966-135.897,29.832-298.315-87.505c-145.878-105.391-329.143-304.946-418.638-346.711 M2336.056,1875.948
+		c-26.849-10.938-164.074-66.624-250.585-151.146c-128.726-125.767-140.541-227.052-220.755-279.423 M1574,1683
+		c1.918-1.229,69.423-53.989,82.084-64.416c76.496-62.997,96.916-144.584,210.288-152.987
+		c131.593,150.816,77.896,464.049,778.938,416.318c-112.877-58.219-455.906-131.791-427.586-495.205
+		c21.38-274.349,200.866-310.249,515.093-632.43c-475.316-73.585-722.837,447.875-861.141,534.315
+		c-20.052,12.532-116.647-2.525-203.676-52.596c-73-42-131-73-131-73"/>
+</g>
+</svg>

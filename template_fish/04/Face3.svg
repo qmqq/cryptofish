@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="2386.677" width="3931.389" x="-369.944" y="-2694.383" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Face_1_">
+	
+		<path id="Mouth_1_" fill="#3F1708" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M924.226,1593.166c-50.291,33.087-74,56.667-130.667,88c15.333,16,97.52,31.733,136.667-14
+		c19.487-22.766,48.406-41.549,54.774-55.499C1001.943,1574.553,961.051,1568.938,924.226,1593.166z"/>
+	<g id="FaceColor_2_">
+		<defs>
+			<path id="FaceMask_2_" d="M1035.895,1749.809c-62.895,4.191-165.228,3.858-243.228-67.142c39,1,138.833-6.667,190.333-83.667
+				c0-30-75.667,49.666-256.667,21.333c-30-154.667,52.229-395.514,230.785-440.727"/>
+		</defs>
+		<clipPath id="FaceMask_1_">
+			<use xlink:href="#FaceMask_2_"  overflow="visible"/>
+		</clipPath>
+		
+			<rect id="BodyColor_2_" x="-369.944" y="307.706" clip-path="url(#FaceMask_1_)" fill="#57A48A" width="3931.389" height="2386.677"/>
+	</g>
+	
+		<path id="FaceLine_1_" fill="none" stroke="#000000" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M1035.895,1749.809C973,1754,869.667,1753,791.667,1682c39,1,129.833-1,191.333-83c0-30-75,53-256,24.667
+		c-30-154.667,51.563-398.848,230.118-444.061"/>
+	<path id="moustache" fill="#0B0203" d="M915.145,1504.15c29.036-18.778,69.836,4.811,58.235,46.676
+		c-5.45,19.667-26.638,57.063-73.821,55.846c-37.898-0.977-59.435-28.586-113.72,2.808c-52.209-25.394-31.662-5.462-79.694-6.423
+		c-27.143-0.542-38.993-33.858-43.012-48.969c-4.484-16.854,16.245-60.709,43.808-44.92c6.371,3.648,10.294,15.831,6.588,23.116
+		c-6.733,13.237-20.368,10.766-23.249,3.324c-2.465-6.368,3.324-10.565,6.379-11.379c-4.887,6.128,0.32,11.041,6.374,7.657
+		c6.48-3.622,2.955-14.364-6.961-14.372c-10.937-0.008-13.648,8.978-14.014,13.328c-2.056,24.458,34.404,40.229,55.5,17.953
+		c24.65-26.031,38.482-6.643,50.127,7.603c27.139-33.894,63.326-10.841,88.677,7.977c19.985,14.836,64.295,6.097,72.47-17.568
+		c6.099-17.658-7.153-39.257-25.712-28.472c-5.196,3.021-6.896,8.926-5.894,14.331c1.018,5.494,6.449,11.836,14.021,8.213
+		c4.551-2.178,4.512-13.581-7.319-13.978c11.065-8.835,29.099,7.771,12.598,23.153
+		C917.035,1568.223,879.316,1527.321,915.145,1504.15z"/>
+</g>
+</svg>

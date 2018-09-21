@@ -1,0 +1,33 @@
+{
+  "name": "marlin-shop",
+  "version": "1.0.0",
+  "description": "cryptomarlin",
+  "main": "truffle.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minqian",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "ethjs": "^0.3.1",
+    "ethjs-account": "^0.1.4",
+    "ethjs-rpc": "^0.1.8",
+    "lite-server": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.coding.net:qmqq/Marlin.git"
+  },
+  "keywords": [
+    "ethereum"
+  ]
+}

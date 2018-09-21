@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="2394.679" width="3939.389" x="-439.713" y="-3094.216" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="Tail_1_">
+	<path id="TailFin_6_" fill="#A65253" d="M2067.063,1087.611c-25.498,92.996-190.49,209.99-301.771,293.027
+		c-22.543,128.612,127.771,161.94,304.771,363.94c56.997-46.498,116.994-118.494,124.494-347.983
+		C2193.058,1227.103,2118.061,1147.608,2067.063,1087.611z"/>
+	<g id="TailColor_6_">
+		<defs>
+			<path id="TailMask" d="M1539,1698c53.723-23.024,215.387-78.634,300.46-163.872c23.537-94.094,23.908-121.289-7.782-204.472
+				C1717.485,1232.023,1484,1147,1484,1147L1539,1698z"/>
+		</defs>
+		<clipPath id="TailMask_1_">
+			<use xlink:href="#TailMask"  overflow="visible"/>
+		</clipPath>
+		
+			<rect id="BodyAllColor_6_" x="-435.713" y="703.537" clip-path="url(#TailMask_1_)" fill="#539C85" stroke="#221714" stroke-width="8" stroke-miterlimit="10" width="3931.389" height="2386.679"/>
+	</g>
+	<path id="TailLine_6_" fill="none" stroke="#221714" stroke-width="8" stroke-linecap="round" stroke-miterlimit="10" d="
+		M1543,1701c57.209-24.107,214.433-79.243,297.332-162.667c65.656,60.591,168.234,119.249,229.73,206.245
+		c177.772-135.076,154.492-526.474-3-656.967c-37.497,116.994-185.991,200.99-234.604,238.593C1718.57,1224.806,1484,1147,1484,1147
+		"/>
+</g>
+</svg>

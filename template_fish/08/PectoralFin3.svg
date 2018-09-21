@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="2218.08" width="2242.727" x="359.145" y="-2656.167" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="PectoralFin">
+	<g id="PectoralFinColor">
+		<defs>
+			<path id="PectoralFinMask" d="M1304.368,1668.22c26.114,5.077,131.38,46.617,165.419,110.44
+				c19.611,36.764,18.19,74.735,17.7,138.51c-92.456-18.503-225.412-123.234-289.137-260.521c0,0,28.318,10.449,56.055,10.419
+				C1285.923,1667.033,1304.368,1668.22,1304.368,1668.22z"/>
+		</defs>
+		<clipPath id="PectoralFinMask_1_">
+			<use xlink:href="#PectoralFinMask"  overflow="visible"/>
+		</clipPath>
+		
+			<rect id="FinAllColor_2_" x="359.145" y="438.087" clip-path="url(#PectoralFinMask_1_)" fill="#C8812A" width="2242.727" height="2218.08"/>
+	</g>
+	<path id="PectoralFinLine" fill="none" stroke="#050001" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" d="
+		M1387.5,1874c0,0-48-39-78.258-81.473c-38.679-54.294-77.77-126.932-77.77-126.932 M1265.937,1667.807
+		c0,0,41.356,64.221,89.534,113.9c95.287,98.282,132.18,116.641,132.18,116.641 M1285.923,1667.033c0,0,27.459,29.933,77.868,69.217
+		c67.482,52.571,117.408,71.766,117.408,71.766 M1198.351,1656.648c63.725,137.287,196.681,242.019,289.137,260.521
+		c0.49-63.774,1.911-101.746-17.7-138.51c-34.039-63.823-139.305-105.363-165.419-110.44"/>
+</g>
+</svg>

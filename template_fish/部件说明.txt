@@ -1,0 +1,25 @@
+01 HeadWear (Í·ÊÎ¡Á4)
+
+02 EyekudA (ÑÛÆ¤A¡Á2)
+
+03 EyeA (ÑÛA¡Á1)
+
+04 Face (Á³¡Á4)
+
+05 EyelidB (ÑÛÆ¤B¡Á2)
+
+06 EyeB (ÑÛB¡Á1)
+
+07 Head (Í·¡Á1)
+
+08 PectoralFin (ÐØ÷¢¡Á3)
+
+09 BodySkin (Æ¤·ô¡Á4)
+
+10 Tail (Î²¡Á8)
+
+11 Body (ÉíÌå¡Á1)
+
+12 Ventralfin (¸¹÷¢¡Á3)
+
+13 DorsalFin (±³÷¢¡Á4)

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="1955.199" width="2029.134" x="638.459" y="-2536.022" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="BodySkin_3_">
+	<defs>
+		<path id="BodySkinMask" d="M1487.911,1393.055c0,44.295-33.383,80.199-74.56,80.199c-41.179,0-74.559-35.904-74.559-80.199
+			c0-44.292,33.38-80.199,74.559-80.199C1454.527,1312.856,1487.911,1348.763,1487.911,1393.055z M1493,1229.667
+			c-12.667,28,8.49,51.94,37.088,67.118c28.604,15.168,69.604,6.602,79.251-24.302c8.994-28.815-7.006-50.816-37.673-63.482
+			C1536.044,1194.287,1504.69,1203.825,1493,1229.667z M1323.5,1127c-16.981,20.083-6.768,58.24,17.315,78.606
+			c24.08,20.358,57.37,20.591,74.353,0.503c16.981-20.081,11.203-52.863-12.881-73.226C1379.5,1128.5,1354.5,1124.5,1323.5,1127z
+			 M1100.976,1150.05c4.176,16.072,39.594,39.687,77.024,29.95c32.016-8.333,55.134-34.918,58.523-52.495
+			c0.573-2.969-123.023,11.995-135.69,16.5C1100.419,1146.021,1100.453,1148.041,1100.976,1150.05z M1196.159,1407.486
+			c26.822,2.195,50.722-22.721,53.412-55.637c2.688-32.909-16.86-61.369-43.7-63.551c-26.809-2.198-50.711,22.722-53.404,55.634
+			C1149.785,1376.846,1169.341,1405.298,1196.159,1407.486z M1321.417,1560.032c7.983-25.705-7.24-53.252-33.976-61.557
+			c-26.74-8.298-54.882,5.787-62.858,31.501c-7.985,25.688,7.238,53.239,33.975,61.548
+			C1285.299,1599.823,1313.438,1585.728,1321.417,1560.032z M1599.824,1592.245c5.514-35.573-21.834-69.307-61.069-75.394
+			c-39.229-6.08-75.508,17.795-81.015,53.368c-5.521,35.549,21.834,69.29,61.063,75.377
+			C1558.031,1651.677,1594.311,1627.798,1599.824,1592.245z"/>
+	</defs>
+	<clipPath id="BodySkinMask_1_">
+		<use xlink:href="#BodySkinMask"  overflow="visible"/>
+	</clipPath>
+	
+		<rect id="SkinAllColor" x="638.459" y="580.823" clip-path="url(#BodySkinMask_1_)" fill="#8ECEC4" width="2029.134" height="1955.199"/>
+</g>
+</svg>

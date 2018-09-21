@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 199 72" enable-background="new 0 0 199 72" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-27.333" y="-22.721" width="249.522" height="89.054"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#9A9A9A" d="M195.172,18.161
+		c0-8.598-6.981-15.578-15.578-15.578H21.245c-8.598,0-15.578,6.98-15.578,15.578v31.156c0,8.598,6.98,15.578,15.578,15.578h158.349
+		c8.597,0,15.578-6.98,15.578-15.578V18.161z"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#EEEEEE" d="M195.505,20.266
+		c0-8.598-6.981-15.578-15.578-15.578H21.578C12.98,4.688,6,11.668,6,20.266v31.156C6,60.02,12.98,67,21.578,67h158.349
+		c8.597,0,15.578-6.98,15.578-15.578V20.266z"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 52.3204 45.7552)" fill="#434343" font-family="'SimHei'" font-size="24px">返回顶部</text>
+	</g>
+</g>
+</svg>

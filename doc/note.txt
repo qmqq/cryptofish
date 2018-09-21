@@ -1,0 +1,23 @@
+1、编译 truffle compile
+2、移植 truffle migrate
+3、开启NodeJS网站支持 npm run dev
+4、nodejs支持环境安装
+  npm install --save ethjs
+  npm install --save ethjs-account
+  npm install --save ethjs-rpc
+  npm install -g ganache-cli
+5、开启环境网络环境调试 truffle develop 或者 ganache-cli
+6、开启ETH测试网络的计算机切忌一定需要关闭
+7、部署到本地时，若用lite-server启动，需要进入项目运行npm install与npm install lite-server
+8、node版本需要在6.3.1以上
+关键代码：
+  app.js:
+    设置ETH网络连接地址
+    App.web3Provider = new Web3.providers.HttpProvider('http://192.168.3.214:8545'); //外网ip：端口号
+    调用智能合约中public函数，其中花括号部分是在声明执行智能合约的前置环境
+    return adoptionInstance.adopt(petId,owner, {from: account,value:1*eth,gas:20000});
+  Adoption.sol
+    若合约涉及转账支付，则需要在合约的构造函数上声明 payable 关键字(没有构造函数的话，就直接添加一个空的构造函数)
+    function Adoption() public payable
+    涉及支付的函数中 需要声明 payable 关键字
+    function adopt(uint petId,address owner) public payable  returns (bool)

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Fish" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="3000px" height="3000px"
+	 viewBox="0 0 3000 3000" enable-background="new 0 0 3000 3000" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="1832.702" width="1725.71" x="704.063" y="-2428.712" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g id="VentralFin_2_">
+	<g id="VentralFinColor_3_">
+		<defs>
+			<path id="VentralFinMask_3_" d="M1647.412,1590.323c-52.412,26.677-166.391,84.849-182.736,89.929
+				c14.324,72.748,238.628,127.814,299.264,109.114c7.775-2.397,35.04-29.639,7.275-87.809
+				C1743.587,1643.675,1675.667,1619,1647.412,1590.323z"/>
+		</defs>
+		<clipPath id="VentralFinMask_1_">
+			<use xlink:href="#VentralFinMask_3_"  overflow="visible"/>
+		</clipPath>
+		
+			<rect id="FinAllColor_8_" x="704.063" y="596.01" clip-path="url(#VentralFinMask_1_)" fill="#C8812A" width="1725.71" height="1832.702"/>
+	</g>
+	<path id="PectoralFinColor2_1_" fill="#2D2D2D" d="M1771.215,1701.558C1787,1738,1782,1741,1775.667,1777
+		c-4.546,25.842-83.5,12-158.167-2C1681,1774,1716,1753,1771.215,1701.558z"/>
+	<path id="VentralFinLine_3_" fill="none" stroke="#050001" stroke-width="6" stroke-miterlimit="10" d="M1647.412,1590.323
+		c-38.04,22.201-166.391,84.848-182.736,89.929c24.715,85.049,291.089,137.883,309.35,97.739
+		C1816.513,1684.584,1660.206,1605.287,1647.412,1590.323z"/>
+</g>
+</svg>

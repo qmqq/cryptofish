@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CryptoMarlin</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="images/favicon.ico" rel="icon" type="image/x-icon">
+    <link href="css/main.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div ng-app='myApp' ng-controller='MainController'>
+<div class="header">
+    <div class="header_inner">
+        <div class="logo">
+            <iframe src="images/logo.svg" width="100" height="80">
+            </iframe>
+            <font size="6" >首页</font>
+        </div>
+        <div class="fr">
+            <div class="s-header-nav text-tc">
+                <a >注册</a> / <a href="./market.html">鱼市</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="middle" >
+    <div class="hide-center">
+        <div id="formhead">
+            <div id="formhead-title">
+              用户登录
+            </div>
+            <button type="button" id="close">X</button>
+        </div>
+        <div id="formbody">
+          <div class="loginUserName">
+              <input id="input-topright-loginInput" name="userName" class="loginInput" placeholder="用户名" type="text" placeholder="账号">
+          </div>
+            <div class="loginUserName">
+                <input id="input-topright-loginInput" name="userName" class="loginInput" placeholder="用户名" type="text" placeholder="账号">
+            </div>
+            <div class="loginPassword">
+                <input id="input-bottomright-loginInput" name="password" class="loginInput" placeholder="密码" type="password" style="border-bottom-right-radius:5px;">
+            </div>
+            <div id="formfoot">
+                <button id="BSignIn" type="submit">登录</button>
+            </div>
+        </div>
+    </div>
+    <div class="fish">
+        <div class="fish-left">
+            <div class="content">
+                <ul>
+                    <li>可收集回收</li>
+                    <li>可增值</li>
+                    <li>自定义</li>
+                </ul>
+                <p>收集和繁殖你的数字鱼</p>
+                <button class="hvr-float" id="login">现在开始</button>
+            </div>
+        </div>
+        <div class="fish-right">
+        <img src="images/fishes.png"  alt="基于区块链的马林鱼"/>
+        </div>
+    </div>
+</div>
+
+<div class="wt-footer">
+    <div class="w1200 clearfix">
+        <ul class="fl footer-link1">
+            <li class="first-title">我的咸鱼</li>
+            <li><a  target="_blank" rel="nofollow">鱼市</a></li>
+            <li><a  target="_blank" rel="nofollow">工单邮箱：20180000@yjys.com</a></li>
+            <li><a  target="_blank" rel="nofollow">关于我们</a></li>
+        </ul>
+        <ul class="fl footer-link2">
+            <li class="first-title">新浪微博</li>
+            <li><a  target="_blank" rel="nofollow">豆瓣</a></li>
+            <li><a  target="_blank" rel="nofollow">使用条例</a></li>
+            <li><a  target="_blank" rel="nofollow">隐私条例</a></li>
+        </ul>
+        <ul class="fl footer-link3">
+            <li class="first-title">在本站购买生育所得的</li>
+            <li><a  target="_blank">数字宠物只能在本站繁殖</a></li>
+            <li><a  target="_blank">收集和交易请理性消费</a></li>
+        </ul>
+    </div>
+</div>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="js/angular.min.js"></script>
+<script src="js/index.js"></script>
+</div>
+</body>
+</html>
